@@ -6,7 +6,7 @@
 # HAKKIMDA
 * **Genellikle zamanımı bilgisayar başın da ve discord platformunda geçiriyorum.**
 * **Ögrenmek istediğim diller C, C++ ve Python.**
-* **Şuanda öğrenmeye çalıştığım diller JavaScript ve HTML.**
+* **Şuanda öğrendiğim diller JavaScript ve HTML.**
 
 
 # Bana ulaşabileceğiniz yerler
