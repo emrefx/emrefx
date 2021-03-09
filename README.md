@@ -1,5 +1,5 @@
 # İstatistik
-<img align="top" alt="emrefx GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrefx&show_icons=true&theme=radical"/>
+<img align="top" alt="Xniz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xniz&show_icons=true&theme=radical"/>
 
 
 
